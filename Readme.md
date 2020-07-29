@@ -1,5 +1,8 @@
 # Project: Machine Learning
 ### Introduction
-This repo is for my individual projects:
+This repo is for my machine learning projects from:
 - kaggle: projects from competition on kaggle
-- exercise: from school project and exercise on kaggle
+- Udacity machine learning master degree projects
+
+**Project1 :** [Boston Housing](https://github.com/shaliqiann/Project-ML/tree/master/boston_housing)
+
